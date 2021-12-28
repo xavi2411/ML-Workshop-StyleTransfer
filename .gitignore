@@ -1,3 +1,9 @@
+# Exclude results
+results/*
+
+# Exclude checkpoints
+checkpoints/*
+
 # Exclude datasets
 datasets/*
 !.gitkeep
